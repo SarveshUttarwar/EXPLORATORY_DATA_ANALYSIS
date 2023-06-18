@@ -1,2 +1,2 @@
-# EXPLORATORY_DATA_ANALYSIS
-how to monitor the trends of a particular market
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
